@@ -4,7 +4,7 @@
 
     <nav>
         <div class="logo">
-            <a href="index.html"><em>Williams</em></a>
+            <a href="index"><em>Williams</em></a>
         </div>
       <div class="menu-icon">
         <span></span>

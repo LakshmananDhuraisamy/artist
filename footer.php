@@ -64,11 +64,11 @@
           <div class="main-menu">
               <ul>
                   <li>
-                      <a href="index.html">Home</a>
+                      <a href="index">Home</a>
                   </li>
                   
                   <li>
-                      <a href="about.html">About Us</a>
+                      <a href="about">About Us</a>
                   </li>
                  
               </ul>
