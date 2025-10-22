@@ -70,6 +70,15 @@
                   <li>
                       <a href="about">About Us</a>
                   </li>
+
+                   <li>
+                      <a href="lessons">Lessons</a>
+                  </li>
+
+                  <li>
+                      <a href="paintings">Paintings</a>
+                  </li>
+
                  
               </ul>
               
