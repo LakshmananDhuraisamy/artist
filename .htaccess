@@ -1,0 +1,12 @@
+RewriteEngine On
+
+# Remove .php from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+ 
+
+# Allow multiple levels of name/name/name/...
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/(.+)$ $1.php?url=$2 [L]
