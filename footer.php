@@ -79,6 +79,13 @@
                       <a href="paintings">Paintings</a>
                   </li>
 
+                   <li>
+                      <a href="writings">Writings</a>
+                  </li>
+                
+                  <li>
+                      <a href="about">FAQs</a>
+                  </li>
                  
               </ul>
               
