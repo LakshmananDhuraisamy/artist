@@ -12,7 +12,7 @@
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/fontAwesome.css">
         <link rel="stylesheet" href="css/light-box.css">
-        <link rel="stylesheet" href="css/templatemo-style.css">
+        <link rel="stylesheet" href="css/style.css">
 
         <link href="https://fonts.googleapis.com/css?family=Kanit:100,200,300,400,500,600,700,800,900" rel="stylesheet">
 
@@ -23,7 +23,7 @@
 
     <nav>
         <div class="logo">
-            <a href="index"><em>Williams</em></a>
+            <a href="index">Williams<em> PAINTINGS</em></a>
         </div>
       <div class="menu-icon">
         <span></span>
