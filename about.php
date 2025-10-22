@@ -1,16 +1,5 @@
 <?php include('header.php');?>
 
-<body>
-
-    <nav>
-        <div class="logo">
-            <a href="index"><em>Williams</em></a>
-        </div>
-      <div class="menu-icon">
-        <span></span>
-      </div>
-    </nav>
-
     <div class="page-heading">
         <div class="container">
             <div class="heading-content">
@@ -43,9 +32,7 @@ Hope you have a nice day, <br>
 Yours sincerely, <br>
 William <br>
 </p>
-                    <div class="simple-btn">
-                        <a href="#">Continue Reading</a>
-                    </div>
+
                 </div>
             </div>
         </div>

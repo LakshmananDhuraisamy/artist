@@ -19,3 +19,14 @@
 
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
+
+<body>
+
+    <nav>
+        <div class="logo">
+            <a href="index"><em>Williams</em></a>
+        </div>
+      <div class="menu-icon">
+        <span></span>
+      </div>
+    </nav>

@@ -72,7 +72,7 @@
                   </li>
                  
               </ul>
-              <p>We create awesome templates for you.</p>
+              
           </div>
         </div>
       </div>

@@ -1,15 +1,5 @@
 <?php include('header.php');?>
 
-<body>
-
-    <nav>
-        <div class="logo">
-            <a href="index"><em>Williams</em></a>
-        </div>
-        <div class="menu-icon">
-        <span></span>
-      </div>
-    </nav>
 
     <div id="video-container">
         <div class="video-overlay"></div>
