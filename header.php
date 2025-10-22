@@ -23,7 +23,7 @@
 
     <nav>
         <div class="logo">
-            <a href="index">Williams<em> PAINTINGS</em></a>
+            <a href="index">Williams<br><em>PAINTINGS</em></a>
         </div>
       <div class="menu-icon">
         <span></span>
