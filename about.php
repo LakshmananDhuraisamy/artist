@@ -1,12 +1,4 @@
 <?php include('header.php');?>
-
-    <div class="page-heading">
-        <div class="container">
-            <div class="heading-content">
-                <h1>About <em>Me</em></h1>
-            </div>
-        </div>
-    </div>
  
     <div class="more-about-us">
         <div class="container">
