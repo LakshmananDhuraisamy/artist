@@ -1,8 +1,6 @@
 <?php include('header.php');?>
 <style>
-.autour-bio-image img {
-    border-radius: 10px;
-    box-shadow: 0 4px 8px #fff;
+.autour-bio-image img { 
     width: 400px;
     height: 580px;
 }
@@ -19,7 +17,7 @@
     <div class="more-about-us" style="  margin-top: 80px;">
         <div class="">
             <div class="col-md-5 autour-bio-image">
-                <img src="img/author.jpeg" style="" alt="">
+                <img src="img/homepic.jpeg" style="" alt="">
             </div>
             <div class="col-md-5">
                 <div class="content">

@@ -2,7 +2,12 @@
  
     <div class="more-about-us">
         <div class="container">
-            <div class="col-md-8 col-md-offset-2">
+            <div class="col-md-3">
+                <div class="image">
+                    <img src="img/author.jpeg" alt="">
+                </div>
+            </div>
+            <div class="col-md-7 col-md-offset-2"> ">
                 <div class="content">
                     <h2>About Me</h2>
                     <span>William</span>
