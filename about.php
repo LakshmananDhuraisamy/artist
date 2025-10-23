@@ -23,12 +23,12 @@ As well as the writing, I also tried my hand at painting, starting in earnest pr
 Monet, Gauguin, and Van Gogh were big influences for me there, amongst others... I won't make a long list...
 <br><br>
 I'm also avaliable for art lessons, either in person if we're in the same locale, or via web call, and I can teach you how to paint in my style or even how to find your own. and you can find out more on the teaching page on my site.
-<br><br>
+<br>
 Anyway, thanks for stopping by,<br>
-Hope you have a nice day, <br>
+Hope you have a nice day, <br><br>
 Yours sincerely, <br>
-William Seymour Jones<br>
-Trouble.underwater@gmail.com
+<b>William Seymour Jones<br>
+<a href="mailto:trouble.underwater@gmail.com">trouble.underwater@gmail.com</a><b>
 </p>
 
                 </div>
