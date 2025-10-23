@@ -3,7 +3,7 @@
 .autour-bio-image img {
     border-radius: 10px;
     box-shadow: 0 4px 8px #fff;
-     width: 400px;
+    width: 400px;
     height: 580px;
 }
 
@@ -17,7 +17,7 @@
 
 </style>
     <div class="more-about-us" style="  margin-top: 80px;">
-        <div class="container">
+        <div class="">
             <div class="col-md-5 autour-bio-image">
                 <img src="img/author.jpeg" style="" alt="">
             </div>

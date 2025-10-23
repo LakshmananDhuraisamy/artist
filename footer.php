@@ -68,7 +68,7 @@
                   </li>
                   
                   <li>
-                      <a href="about">About Us</a>
+                      <a href="about">About Me</a>
                   </li>
 
                    <li>
