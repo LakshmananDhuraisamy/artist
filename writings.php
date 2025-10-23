@@ -25,7 +25,30 @@ dear friend, in the shed, the cage, the lowering acrid gondola. Dear friend we s
 
 <b>Novels </b> <br>
 </p>
+<style>
+.download-btn {
+  border: 1px solid #fff !important;
+  background-color: #000;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
 
+/* Darker background on mouse-over */
+.download-btn:hover {
+  background-color: #fff;
+  color: black;
+}
+.download-btn:focus {
+  background-color: #fff;
+  color: black;
+}
+
+</style>
+
+<a target="_blank" href="https://pdfobject.com/pdf/sample.pdf" class="download-btn btn"><i class="fa fa-download"></i> Download</a> <br><br><br>
     <div class="full-screen-portfolio" id="portfolio">
         <div class="container-fluid">
             <div class="col-md-4 col-sm-6">
