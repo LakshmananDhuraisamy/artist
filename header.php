@@ -33,4 +33,16 @@
   body {
     background-color: #000;
   }
+  .autour-bio-image img { 
+    width: 400px;
+    height: 580px;
+}
+
+  @media screen and (max-width: 768px) {
+   
+    .autour-bio-image img {
+     width: 100%;
+    }
+    }
+
   </style>

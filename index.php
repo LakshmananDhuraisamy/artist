@@ -1,19 +1,5 @@
 <?php include('header.php');?>
-<style>
-.autour-bio-image img { 
-    width: 400px;
-    height: 580px;
-}
 
-  @media screen and (max-width: 768px) {
-   
-    .autour-bio-image img {
-     width: 100%;
-    }
-    }
-
-
-</style>
     <div class="more-about-us" style="  margin-top: 80px;">
         <div class="">
             <div class="col-md-5 autour-bio-image">
