@@ -31,7 +31,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Biodiesel <em>squid</em></h1>
-                                <p>Awesome Subtittle Goes Here</p>
+                                <!-- <p>Awesome Subtittle Goes Here</p> -->
                             </div>
                         </div>
                         <div class="image">
@@ -46,7 +46,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>raclette <em>taxidermy</em></h1>
-                                <p>Awesome Subtittle Goes Here</p>
+                                <!-- <p>Awesome Subtittle Goes Here</p> -->
                             </div>
                         </div>
                         <div class="image">
@@ -61,7 +61,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>humblebrag <em>brunch</em></h1>
-                                <p>Awesome Subtittle Goes Here</p>
+                                <!-- <p>Awesome Subtittle Goes Here</p> -->
                             </div>
                         </div>
                         <div class="image">
@@ -76,7 +76,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                         <div class="hover-effect">
                             <div class="hover-content">
                                 <h1>Succulents <em>chambray</em></h1>
-                                <p>Awesome Subtittle Goes Here</p>
+                                <!-- <p>Awesome Subtittle Goes Here</p> -->
                             </div>
                         </div>
                         <div class="image">
