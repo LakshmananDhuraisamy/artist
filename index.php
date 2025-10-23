@@ -1,22 +1,25 @@
 <?php include('header.php');?>
+<style>
+.autour-bio-image img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #fff;
+     width: 400px;
+    height: 580px;
+}
+
+  @media screen and (max-width: 768px) {
+   
+    .autour-bio-image img {
+     width: 100%;
+    }
+    }
 
 
-    <!-- <div id="video-container">
-        <div class="video-overlay"></div>
-        <div class="video-content">
-            <div class="inner">
-              <h1>Welcome to <em>Williams Paintings</em></h1>
-                <div class="scroll-icon">
-                    <a class="scrollTo" data-scrollTo="portfolio" href="#"><img src="img/scroll-icon.png" alt=""></a>
-                </div>    
-            </div>
-        </div>
-         <img src="img/author.jpeg">
-    </div> -->
-    <div class="more-about-us">
+</style>
+    <div class="more-about-us" style="  margin-top: 80px;">
         <div class="container">
-            <div class="col-md-5">
-                <img src="img/author.jpeg" style="width:100%; height:auto;" alt="">
+            <div class="col-md-5 autour-bio-image">
+                <img src="img/author.jpeg" style="" alt="">
             </div>
             <div class="col-md-5">
                 <div class="content">
