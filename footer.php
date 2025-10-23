@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <p>Copyright &copy; 2025 WilliamsPaintings 
     
-    | Designed by Cattain</p>
+    | Designed by Visionaries Global Alchemy Private</p>
             </div>
         </div>
     </footer>
