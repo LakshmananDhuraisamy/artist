@@ -131,7 +131,7 @@ And the way we treat them in this day and age, is by any reasonable moral standa
      <div class="more-about-us" style="margin-top: 0px;">
         <div class="container">
             <div class="col-md-12">
-                <div class="content" style="    padding: 5px 40px;">
+                <div class="content" style="">
                   
                     <p>
                      
