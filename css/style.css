@@ -570,7 +570,7 @@ footer p {
   color: #000;
   font-weight: 400;
   font-size: 13px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   padding-top: 33px;
   letter-spacing: 0.5px;
 }

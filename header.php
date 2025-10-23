@@ -37,6 +37,10 @@
     width: 400px;
     height: 580px;
 }
+footer p span{
+  color: #000;
+  font-weight: 500;
+}
 
   @media screen and (max-width: 768px) {
    
