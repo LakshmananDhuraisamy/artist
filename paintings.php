@@ -20,7 +20,39 @@ Also please note, it you like a picture and cannot afford to buy it for the full
         </div>
     </div>
 
+ 
+      <div class="full-screen-portfolio more-about-us" style="margin-bottom: 40px;" id="portfolio">
+        <div class="container">
+                    <h2 style="color:#fff">My Paintings</h2>
+         <?php 
+         if(isset($_GET['page']))
+         {
+             $j=$_GET['page']*12;
+         }
+         else
+         {
+             $j=1;
+         }  
+                 
+         $k=$j+12; 
+         for ($i=$j; $i < $k; $i++) {  ?>   
+        <div class="col-md-3 col-sm-6">
+                <div class="portfolio-item">
+                    <a href="img/paintings/<?php echo $i; ?>.jpg" data-lightbox="image-1"><div class="thumb">
+                        <div class="image" style="margin-bottom: 10px;" >
+                            <img src="img/paintings/<?php echo $i; ?>.jpg" style="height: 300px; width: 100%;" alt="">
+                        </div>
+                    </div></a>
+                </div>
+        </div>
+         <?php  } ?>
+         <?php if(isset($_GET['page'])){  ?>
+        <a href="paintings.php" class="btn btn-primary" style="margin-top: 20px; margin-bottom: 40px;">Reset</a>
+        <a href="paintings.php?page=<?php echo (isset($_GET['page']) && $_GET['page']>1 ? $_GET['page'] - 1 : 1); ?>" class="btn btn-primary" style="margin-top: 20px; margin-bottom: 40px;">Previous</a>
+            <?php } ?> 
+            <a href="paintings.php?page=<?php echo (isset($_GET['page']) ? $_GET['page'] + 1 : 2); ?>" class="btn btn-primary" style="margin-top: 20px; margin-bottom: 40px;">Load More</a>
+    
 
-    
-    
+        </div>
+    </div> 
  <?php include('footer.php');?>
