@@ -27,14 +27,14 @@ Also please note, it you like a picture and cannot afford to buy it for the full
          <?php 
          if(isset($_GET['page']))
          {
-             $j=$_GET['page']*12;
+             $j=$_GET['page']*20;
          }
          else
          {
              $j=1;
          }  
                  
-         $k=$j+12; 
+         $k=$j+20; 
          for ($i=$j; $i < $k; $i++) {  ?>   
         <div class="col-md-3 col-sm-6">
                 <div class="portfolio-item">
@@ -47,10 +47,10 @@ Also please note, it you like a picture and cannot afford to buy it for the full
         </div>
          <?php  } ?>
          <?php if(isset($_GET['page'])){  ?>
-        <a href="paintings.php" class="btn btn-primary" style="margin-top: 20px; margin-bottom: 40px;">Reset</a>
-        <a href="paintings.php?page=<?php echo (isset($_GET['page']) && $_GET['page']>1 ? $_GET['page'] - 1 : 1); ?>" class="btn btn-primary" style="margin-top: 20px; margin-bottom: 40px;">Previous</a>
+        <a href="paintings.php" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Reset</a>
+        <a href="paintings.php?page=<?php echo (isset($_GET['page']) && $_GET['page']>1 ? $_GET['page'] - 1 : 1); ?>" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Previous</a>
             <?php } ?> 
-            <a href="paintings.php?page=<?php echo (isset($_GET['page']) ? $_GET['page'] + 1 : 2); ?>" class="btn btn-primary" style="margin-top: 20px; margin-bottom: 40px;">Load More</a>
+            <a href="paintings.php?page=<?php echo (isset($_GET['page']) ? $_GET['page'] + 1 : 2); ?>" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Next</a>
     
 
         </div>
