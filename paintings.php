@@ -20,20 +20,27 @@ Also please note, it you like a picture and cannot afford to buy it for the full
         </div>
     </div>
 
- 
-      <div class="full-screen-portfolio more-about-us" style="margin-bottom: 40px;" id="portfolio">
-        <div class="container">
-                    <h2 style="color:#fff">My Paintings</h2>
-         <?php 
+  <?php 
+            $count=20;
          if(isset($_GET['page']))
          {
              $j=$_GET['page']*20;
+             $count=$j;
          }
          else
          {
              $j=1;
          }  
-                 
+    ?> 
+      <div class="full-screen-portfolio more-about-us" style="margin-bottom:30px;" id="portfolio">
+        <div class="container">
+             <div class="col-md-12 col-sm-12" style="text-align: left;">
+                    <h2 style="color:#fff;">My Paintings</h2>
+                      
+                     <span style="float:left; color:#fff">List: (<?php echo $count; ?> outof 300)</span>
+                     <br>
+            </div>
+         <?php   
          $k=$j+20; 
          for ($i=$j; $i < $k; $i++) {  ?>   
         <div class="col-md-3 col-sm-6">
@@ -47,12 +54,10 @@ Also please note, it you like a picture and cannot afford to buy it for the full
         </div>
          <?php  } ?>
          <?php if(isset($_GET['page'])){  ?>
-        <a href="paintings.php" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Reset</a>
-        <a href="paintings.php?page=<?php echo (isset($_GET['page']) && $_GET['page']>1 ? $_GET['page'] - 1 : 1); ?>" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Previous</a>
+        <a href="paintings" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Reset</a>
+        <a href="paintings?page=<?php echo (isset($_GET['page']) && $_GET['page']>1 ? $_GET['page'] - 1 : 1); ?>" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Previous</a>
             <?php } ?> 
-            <a href="paintings.php?page=<?php echo (isset($_GET['page']) ? $_GET['page'] + 1 : 2); ?>" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Next</a>
-    
-
+            <a href="paintings?page=<?php echo (isset($_GET['page']) ? $_GET['page'] + 1 : 2); ?>" class="btn btn-primary" style="background: #000; border: 1px solid #fff; margin-top: 20px; margin-bottom: 40px;">Next</a>
         </div>
     </div> 
  <?php include('footer.php');?>
