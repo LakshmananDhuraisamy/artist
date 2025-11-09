@@ -11,9 +11,9 @@
 
 
       <!-- Modal button -->
-    <div class="popup-icon">
+    <!-- <div class="popup-icon">
       <button id="modBtn" class="modal-btn"><img src="img/contact-icon.png" alt=""></button>
-    </div>  
+    </div>   -->
 
     <!-- Modal -->
     <div id="modal" class="modal">

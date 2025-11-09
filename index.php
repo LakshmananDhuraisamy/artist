@@ -63,8 +63,11 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                         </div>
                     </div></a>
                 </div>
+                <div class="simple-btn">
+                        <a class="btn btn-primary" style="background: #000; float:right !important; border: 1px solid #fff; margin-top: 20px; margin-bottom: 40px;" href="paintings">See More</a>
+                    </div>
             </div>
-  
+
         </div>
     </div>
 
