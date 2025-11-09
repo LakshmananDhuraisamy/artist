@@ -34,6 +34,8 @@ dear friend, in the shed, the cage, the lowering acrid gondola. Dear friend we s
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
+  margin-bottom: 5px;
+  margin-left: 5px;
 }
 
 /* Darker background on mouse-over */
@@ -46,10 +48,18 @@ dear friend, in the shed, the cage, the lowering acrid gondola. Dear friend we s
   color: black;
 }
 
-</style>
 
-<a target="_blank" href="https://pdfobject.com/pdf/sample.pdf" class="download-btn btn"><i class="fa fa-download"></i> Download</a> <br><br><br>
-    <div class="full-screen-portfolio" id="portfolio">
+</style>
+        <div class="container-fluid" style="margin-bottom: 20px;">
+        <?php
+        $doc_array = array("Abby", "Claire", "Doggo", "Maria", "Patches", "Short_Stories");
+        foreach ($doc_array as $doc) {
+            ?> 
+            <a target="_blank" href="img/docs/<?php echo $doc; ?>.pdf" class="download-btn btn"><i class="fa fa-download"></i>  <?php echo $doc; ?></a>
+        <?php } ?>
+        </div>
+ <br><br><br>
+<div class="full-screen-portfolio" id="portfolio">
         <div class="container-fluid">
             <div class="col-md-4 col-sm-6">
                 <div class="portfolio-item">
