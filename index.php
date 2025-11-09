@@ -25,7 +25,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
 
     <div class="full-screen-portfolio" style="margin-top: 20px; margin-bottom: 20px;" id="portfolio">
         <div class="container-fluid">
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6" style="margin-bottom: 10px;">
                 <div class="portfolio-item">
                     <a href="img/paintings/1.jpg" data-lightbox="image-1"><div class="thumb">
                          
@@ -35,7 +35,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                     </div></a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6" style="margin-bottom: 10px;">
                 <div class="portfolio-item">
                     <a href="img/paintings/2.jpg" data-lightbox="image-1"><div class="thumb">
                          
@@ -45,7 +45,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                     </div></a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6" style="margin-bottom: 10px;">
                 <div class="portfolio-item">
                     <a href="img/paintings/3.jpg" data-lightbox="image-1"><div class="thumb">
                         
@@ -55,7 +55,7 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
                     </div></a>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6" style="margin-bottom: 10px;">
                 <div class="portfolio-item">
                     <a href="img/paintings/4.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="image">
