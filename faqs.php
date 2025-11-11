@@ -13,8 +13,8 @@
     </style>
     <div class="more-about-us">
         <div class="container">
-            <div class="col-md-8 col-md-offset-2">
-                <div class="content">
+            <div class="col-md-12">
+                <div class="content"><br>
                       <h2>Frequently Asked Questions</h2>
                 <div class="panel-group" id="accordion">
  

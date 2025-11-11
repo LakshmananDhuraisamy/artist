@@ -1,7 +1,7 @@
 <?php include('header.php');?>
 
     <div class="more-about-us" style="  margin-top: 80px;">
-        <div class="">
+        <div class="row">
             <div class="col-md-5 autour-bio-image">
                 <img src="img/homepic.jpeg" style="" alt="">
             </div>
