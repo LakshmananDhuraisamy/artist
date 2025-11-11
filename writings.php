@@ -147,14 +147,10 @@ foreach ($doc_title_array as $key => $value) { ?>
         <?php } ?>
 
       </div>
- <br><br><br>
-  
-
+ <br>
 <p>
-<br>
-Brief write up on each + title page. <br>
-Donation box at the bottom. <br>
 If you liked (or disliked...!) a novel you're welcome to let me know your thoughts via email, or to leave a donation in the donation box. <br>
+<a href="about" class="btn btn-primary" style="background: #000; border: 1px solid #fff;  margin-top: 20px; margin-bottom: 40px;">Donate Now</a>
 <br>
 <b>Thank you!</b> 
 <br>
