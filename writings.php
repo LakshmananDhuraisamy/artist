@@ -18,7 +18,7 @@ a violater, a killer, all our human virtues and artistry bereft, and merely the 
 
 <br>
 <div class="image  autour-bio-image" >
-                    <img style="width: 100%;height: 350px;" src="img/poem-2.jpeg" alt="">
+                    <img style="width: 100%;height: 450px;" src="img/poem-2.jpeg" alt="">
                 </div><br>
 Inside the gondola <br>
 Like a candle in a storm we see you,<br>
@@ -57,6 +57,7 @@ dear friend, in the shed, the cage, the lowering acrid gondola. Dear friend we s
         <div class="container-fluid" style="margin-bottom: 20px;">
         <?php
         $doc_array = array("Abby", "Claire", "Doggo", "Maria", "Patches", "Short_Stories");
+        
         foreach ($doc_array as $doc) {
             ?> 
             <a target="_blank" href="img/docs/<?php echo $doc; ?>.pdf" class="download-btn btn"><i class="fa fa-download"></i>  <?php echo $doc; ?></a>
