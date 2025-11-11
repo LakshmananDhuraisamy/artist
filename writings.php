@@ -50,6 +50,9 @@ dear friend, in the shed, the cage, the lowering acrid gondola. Dear friend we s
   color: black;
 }
 
+.blog-post{
+    margin-bottom: 10px !important;
+}
 
 </style>
  

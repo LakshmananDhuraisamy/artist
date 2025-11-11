@@ -70,11 +70,13 @@ nav .logo a {
   color: #000;
   text-decoration: none;
   letter-spacing: 0.5px;
+  margin-left: 90px;
 }
 
 nav .logo em {
   font-style: normal;
   font-weight: 200;
+  margin-left: 90px;
 }
 
 nav {
@@ -827,7 +829,7 @@ footer a:hover {
 .more-about-us .content {
   background-color: rgba(0,0,0,0.8);
   text-align: left;
-  padding: 150px 60px;
+  padding: 50px 60px;
   color: #fff;
 }
 
@@ -1292,6 +1294,9 @@ footer a:hover {
 
 @media (max-width: 530px) {
 
+  nav .logo em, nav .logo a {
+        margin-left: 0px;
+  }
   .modal-header h3 {
     margin-top: 15%;
   }
