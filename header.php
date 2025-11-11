@@ -41,12 +41,24 @@ footer p span{
   color: #000;
   font-weight: 500;
 }
-
+ .poemimg1{
+  height:400px;
+ }
+  .poemimg2{
+  height:500px;
+ }
   @media screen and (max-width: 768px) {
    
     .autour-bio-image img {
      width: 100%;
     }
+
+  .poemimg1{
+    height:350px !important;
+  }
+  .poemimg2{
+    height:350px !important;
+  }
     }
 
   </style>

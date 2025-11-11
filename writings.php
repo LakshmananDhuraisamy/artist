@@ -10,7 +10,7 @@
  <h1 style="    color: #f4dd5b;">  Poems </h1> <br>
 
 <div class="image  autour-bio-image" >
-                    <img style="width: 100%;height: 450px;" src="img/poem-1.jpeg" alt="">
+                    <img class="poemimg1" style="width: 100%;" src="img/poem-1.jpeg" alt="">
                 </div>
 A Eulogy for Animals <br>
 Man to beast is the looming figure of danger, <br>
@@ -18,7 +18,7 @@ a violater, a killer, all our human virtues and artistry bereft, and merely the 
 
 <br>
 <div class="image  autour-bio-image" >
-                    <img style="width: 100%;height: 550px;" src="img/poem-2.jpeg" alt="">
+                    <img class="poemimg2" style="width: 100%;" src="img/poem-2.jpeg" alt="">
                 </div><br>
 Inside the gondola <br>
 Like a candle in a storm we see you,<br>
