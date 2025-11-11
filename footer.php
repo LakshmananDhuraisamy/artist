@@ -86,7 +86,9 @@
                   <li>
                       <a href="faqs">FAQs</a>
                   </li>
-                 
+                  <li>
+                      <a href="contact">Contact</a>
+                  </li>
               </ul>
               
           </div>
