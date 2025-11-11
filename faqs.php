@@ -166,7 +166,7 @@ But, change is afoot people once thought slavery was natural, people once though
 So let's be on the right side of history... let's do all we can to respect ourselves and each other here. After all, we're in this struggle of life together here right? 
 And if everyone could be happy and free and all the nature could be grown back, how beautiful this life and planet could still yet be
 I kindly invite you to check out my animal welfare petition here.
-https://www.change.org/p/animal-lives-matter-0057766d-cdbd-4901-93d1-5fb001c15a1c
+<a target="_black" href="https://www.change.org/p/animal-lives-matter-0057766d-cdbd-4901-93d1-5fb001c15a1c">https://www.change.org/p/animal-lives-matter-0057766d-cdbd-4901-93d1-5fb001c15a1c</a>
 <br><br>
 And if you got all of the way to the bottom of this thanks for reading, it's a grim read but I felt it needs to be said.
 <br>

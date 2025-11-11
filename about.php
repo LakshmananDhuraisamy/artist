@@ -4,7 +4,7 @@
         <div class="container">
             <div class="col-md-3">
                 <div class="image  autour-bio-image" >
-                    <img src="img/author.jpeg" alt="">
+                    <img src="img/about-me.jpeg" alt="">
                 </div>
             </div>
             <div class="col-md-7 col-md-offset-2"> ">
