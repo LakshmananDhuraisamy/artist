@@ -47,19 +47,19 @@ I spent most of my 20s, on and off, trying to write, edit, and rewrite a few nov
             </div>
             <div class="col-md-3 col-sm-6" style="margin-bottom: 10px;">
                 <div class="portfolio-item">
-                    <a href="img/paintings/3.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="img/paintings/7.jpg" data-lightbox="image-1"><div class="thumb">
                         
                         <div class="image">
-                            <img style="height: 300px;" src="img/paintings/3.jpg">
+                            <img style="height: 300px;" src="img/paintings/7.jpg">
                         </div>
                     </div></a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6" style="margin-bottom: 10px;">
                 <div class="portfolio-item">
-                    <a href="img/paintings/4.jpg" data-lightbox="image-1"><div class="thumb">
+                    <a href="img/paintings/68.jpg" data-lightbox="image-1"><div class="thumb">
                         <div class="image">
-                            <img style="height: 300px;" src="img/paintings/4.jpg">
+                            <img style="height: 300px;" src="img/paintings/68.jpg">
                         </div>
                     </div></a>
                 </div>
