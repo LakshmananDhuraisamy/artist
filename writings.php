@@ -7,7 +7,7 @@
                     <h2>Writings</h2>
                     <span>Poems | Novels </span>
                     <p>
- <h1 style="    color: #f4dd5b;">  Poems </h1> <br>
+ <h1 style="    color: #fff;">  Poems </h1> <br>
 
 <div class="image  autour-bio-image" >
                     <img class="poemimg1" style="width: 100%;" src="img/poem-1.jpeg" alt="">
@@ -56,8 +56,8 @@ dear friend, in the shed, the cage, the lowering acrid gondola. Dear friend we s
 
 </style>
  
-<div class="container-fluid" style="margin-bottom: 20px;">
- <h1 style="    color: #f4dd5b;">  Novels </h1> 
+<div class="" style="margin-bottom: 20px;">
+ <h1 style=" color: #fff;">  Novels </h1> 
  
         <p> Whilst I naturally drew from life a little here and there in writing these stories I fictionalised a lot of them and people change and everyone, myself perhaps most of all, make mistakes in this life and deserve second chances and the benefit of the doubt, and none of the characters are meant to be negative or defamatory depictions of anyone I know or have known personally... 
 And my desire wasn't to hurt, upset or defame anyone in writing these stories. 

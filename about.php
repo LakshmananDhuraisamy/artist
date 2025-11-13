@@ -3,7 +3,7 @@
     <div class="more-about-us">
         <div class="container">
             <div class="col-md-3">
-                <div class="image  autour-bio-image" >
+                <div class="image  autour-bio-image" style="margin-top: 60px;" >
                     <img src="img/about-me.jpeg" alt="">
                 </div>
             </div>
